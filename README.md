@@ -60,7 +60,9 @@ For more information on using the Angular CLI, including detailed command refere
 
 ---
 
-# 1. Install core, cdk, kit, icons
+# 1. Install Taiga UI core, cdk, kit, icons
+
+<a target="_blank" href="https://taiga-ui.dev/getting-started">https://taiga-ui.dev/getting-started</a>
 
 ```shell
 ng add taiga-ui
