@@ -57,3 +57,27 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+```shell
+ng add taiga-ui
+```
+
+```shell
+✔ Determining Package Manager
+  › Using package manager: npm
+✔ Searching for compatible package version
+  › Found compatible package version: taiga-ui@4.29.0.
+✔ Loading package information from registry
+✔ Confirming installation
+✔ Installing package
+✔ Choose additional packages to install
+    The main packages will be installed - core,cdk,kit,icons
+UPDATE package.json (1180 bytes)
+    TuiRoot was added to /src/app/app.component.ts
+    Content of the app was wrapped with tui-root component in /src/app/./app.component.html
+UPDATE angular.json (3120 bytes)
+UPDATE src/app/app.component.ts (343 bytes)
+UPDATE src/app/app.config.ts (483 bytes)
+UPDATE src/app/app.component.html (19926 bytes)
+✔ Packages installed successfully.
+```
