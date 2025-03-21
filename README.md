@@ -93,3 +93,13 @@ UPDATE src/app/app.config.ts (483 bytes)
 UPDATE src/app/app.component.html (19926 bytes)
 ✔ Packages installed successfully.
 ```
+
+# 2. Default Dark Void
+
+<a target="_blank" href="/src/app/app.component.html">/src/app/app.component.html</a>
+
+```html
+<tui-root tuiTheme="dark">
+  <router-outlet />
+</tui-root>
+```
